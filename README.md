@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Indra Nand JHa</h1>
 <h3 align="center">Software Developer</h3>
 
-- 📫 How to reach me **indranandjha1993@gmail.com**
+- ###How to reach me ###
+- ✉ - **indranandjha1993@gmail.com**
+- ☏ - <b>+91 - 9473317525</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
