@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - ###How to reach me ###
-- ✉ - **indranandjha1993@gmail.com**
+- ✉ - **indranandjha0@gmail.com**
 - ☏ - <b>+91 - 9473317525</b>
 
 <h3 align="left">Connect with me:</h3>
